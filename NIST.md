@@ -1,0 +1,6 @@
+#  National Institute of Standards and Technology (NIST)
+## [SP 800-63 Digital Identity Guidelines](https://pages.nist.gov/800-63-3/)
+* [SP 800-63-3: Digital Identity Guidelines](https://github.com/dummypunter/Resources/blob/master/NIST.SP.800-63-3.pdf) 
+* [SP 800-63A: Enrollment and Identity Proofing](https://github.com/dummypunter/Resources/blob/master/NIST.SP.800-63a.pdf)
+* [SP 800-63B: Authentication and Lifecycle Management](https://github.com/dummypunter/Resources/blob/master/NIST.SP.800-63b.pdf)
+* [SP 800-63C: Federation and Assertions](https://github.com/dummypunter/Resources/blob/master/NIST.SP.800-63c.pdf)
