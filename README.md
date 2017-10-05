@@ -9,3 +9,4 @@
 ## Various
 
 * [Web Sight Community Edition – Enterprise Attack Surface Enumeration](https://l.avala.mp/?p=209)
+* [SecurityDocs](https://securitydocs.com/) is a collection of technical IT security white papers, articles, and briefings. 
